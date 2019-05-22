@@ -1,0 +1,26 @@
+body {
+    background: #8A8A8A;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
+h1 {
+    background-color: #46DBDB;
+    color: white;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+
+div {
+    background: #F0F2F2;
+    padding-top: 2px;
+    padding-bottom: 10px;
+}
+
+article {
+    margin-top: 20px;
+}
